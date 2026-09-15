@@ -2,6 +2,10 @@
 
 A static website deployed using Microsoft Azure Blob Storage Static Website hosting.
 
+## Live Website
+
+[View the live Azure website](https://hellenacloudstorage01.z38.web.core.windows.net/)
+
 ## Project Overview
 
 This project demonstrates how to host a static HTML and CSS website using Microsoft Azure Blob Storage.
